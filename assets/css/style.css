@@ -87,18 +87,17 @@ nav ul {
     font-size: 200%;
 }
 
-#showjumping-text {
+.showjumping-text {
     width: 33%;
     padding-top: 10px;
-    float: left;
 }
 
 #jumping1 {
-
+    width: 33%;
+    height: 33%;
 }
 
 #jumping2 {
-    float: right;
     width: 33%;
     height: 33%;
 }
@@ -112,11 +111,11 @@ nav ul {
     font-size: 200%;
 }
 
-#dressage-text {
+.dressage-text {
     width: 33%;
     padding-top: 10px;
     padding-left: 10px;
-    float: right;
+
 }
 
 #dressage1 {
@@ -125,7 +124,7 @@ nav ul {
 }
 
 #dressage2 {
-    float: right;
+
     width: 33%;
     height: 33%;
 }
@@ -139,14 +138,14 @@ nav ul {
     font-size: 200%;
 }
 
-#groundwork-text {
+.groundwork-text {
     width: 33%;
     padding-top: 10px;
-    float: left;
+
 }
 
 section ul {
-    float: left;
+
     width: 33%;
     height: 33%;
 }
@@ -157,7 +156,7 @@ section ul {
 }
 
 #groundwork2 {
-    float: right;
+
     width: 33%;
     height: 33%;
 }
