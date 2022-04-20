@@ -19,24 +19,37 @@ body {
 #logo {
     float: left;
     font-size: 300%;
-    margin-left: 10px;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: rgb(33, 43, 46);
 }
 
-/* nav */
+/* navigation links */
 
-nav {
-    font-size: 120%;
-    letter-spacing: 3px;
-    text-transform: uppercase;
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+    margin-top: 40px;
 }
 
-nav ul {
+#menu, #logo {
+    clear: both;
+}
+
+#menu li {
+    float: right;
     list-style-type: none;
-    margin-right: 10px;
-    margin-top: 20px;
+    margin-right: 30px;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
 
+#menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
 
 /* hero image and hero text */
 
