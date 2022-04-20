@@ -11,7 +11,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #3c3f46;
-    background-color: #dfe2eb;
+    background-color: rgb(202, 220, 226);
 }
 
 /* logo */
@@ -52,26 +52,23 @@ nav ul {
     position: relative;
 }
 
-.hero-text {
+#hero-paragraph {
     text-align: center;
     position: relative;
-    font-size: 200%;
-    color: #bac2d4;
-    top: 60%;
-}
-
-#hero-paragraph {
-    font-size: 70%;
-    color: rgb(34, 22, 79);
+    font-size: 150%;
+    top: 85%;
+    text-transform: uppercase;
+    color: rgb(202, 220, 226);
     padding: 0.5%;
     border: inset 2px;
     border-radius: 2%;
-    background-color: #bac2d4;
+    background-color: rgb(72, 95, 102);
 }
 
 /* main sections: showjumping, dressage, groundwork */
 
 .practices {
+    height: 600px;
     margin-top: 20px;
     margin-left: 50px;
     margin-right: 50px;
@@ -91,9 +88,12 @@ nav ul {
     font-size: 200%;
 }
 
-.showjumping-text {
+#showjumping-text {
+    float: left;
     width: 33%;
     padding-top: 10px;
+    border: inset 2px;
+    border-radius: 2%;
 }
 
 #jumping1 {
@@ -119,10 +119,12 @@ nav ul {
     font-size: 200%;
 }
 
-.dressage-text {
+#dressage-text {
     width: 33%;
     padding-top: 10px;
     padding-left: 10px;
+    border: inset 2px;
+    border-radius: 2%;
 
 }
 
@@ -150,16 +152,11 @@ nav ul {
     font-size: 200%;
 }
 
-.groundwork-text {
+#groundwork-text {
     width: 33%;
     padding-top: 10px;
-
-}
-
-section ul {
-
-    width: 33%;
-    height: 33%;
+    border: inset 2px;
+    border-radius: 2%;
 }
 
 #groundwork1 {
