@@ -56,7 +56,6 @@ nav ul {
     text-align: center;
     position: relative;
     font-size: 150%;
-    top: 85%;
     text-transform: uppercase;
     color: rgb(202, 220, 226);
     padding: 0.5%;
@@ -86,6 +85,12 @@ nav ul {
     padding-top: 10px;
     padding-bottom: 20px;
     font-size: 200%;
+    text-transform: uppercase;
+    color: rgb(202, 220, 226);
+    padding: 0.5%;
+    border: inset 2px;
+    border-radius: 2%;
+    background-color: rgb(72, 95, 102);
 }
 
 #showjumping-text {
@@ -99,11 +104,14 @@ nav ul {
 #jumping1 {
     width: 33%;
     height: 33%;
+    margin: auto 0;
 }
 
 #jumping2 {
     width: 33%;
     height: 33%;
+    float: right;
+    margin-top: 0;
 }
 
 /* dressage */
@@ -117,6 +125,12 @@ nav ul {
     padding-top: 10px;
     padding-bottom: 20px;
     font-size: 200%;
+    text-transform: uppercase;
+    color: rgb(202, 220, 226);
+    padding: 0.5%;
+    border: inset 2px;
+    border-radius: 2%;
+    background-color: rgb(72, 95, 102);
 }
 
 #dressage-text {
@@ -150,6 +164,12 @@ nav ul {
     padding-top: 10px;
     padding-bottom: 20px;
     font-size: 200%;
+    text-transform: uppercase;
+    color: rgb(202, 220, 226);
+    padding: 0.5%;
+    border: inset 2px;
+    border-radius: 2%;
+    background-color: rgb(72, 95, 102);
 }
 
 #groundwork-text {
