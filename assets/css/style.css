@@ -10,7 +10,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #3c3f46;
+    color: rgb(33, 43, 46);
     background-color: rgb(202, 220, 226);
 }
 
@@ -19,7 +19,7 @@ body {
 #logo {
     float: left;
     font-size: 300%;
-    margin-top: 40px;
+    margin-top: 20px;
     margin-left: 20px;
     color: rgb(33, 43, 46);
 }
@@ -28,18 +28,20 @@ body {
 
 #menu {
     font-size: 110%;
+    text-transform: uppercase;
     letter-spacing: 4px;
-    margin-top: 40px;
+    width: 50%;
 }
 
 #menu, #logo {
     clear: both;
+    line-height: 50px;
 }
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
-    margin-right: 30px;
+    margin-left: 20px;
 }
 
 #menu a {
@@ -48,7 +50,7 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 2px solid #3a3a3a;
 }
 
 /* hero image and hero text */
@@ -56,8 +58,8 @@ body {
 #hero-image {
     background-image: url('../images/horse-hero-image.jpg');
     width: 100%;
-    height: 600px;
-    margin-top: 80px;
+    height: 700px;
+    margin-top: 60px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -68,7 +70,6 @@ body {
     text-align: center;
     position: relative;
     font-size: 150%;
-    text-transform: uppercase;
     color: rgb(202, 220, 226);
     padding: 0.5%;
     border: inset 2px;
@@ -82,7 +83,10 @@ body {
 
 /* showjumping */
 
-#showjumping-div 
+#showjumping-div {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 #showjumping-heading {
     text-align: center;
@@ -98,30 +102,29 @@ body {
 }
 
 #showjumping-text {
-    float: left;
     width: 33%;
+    float: left;
     padding-top: 10px;
-    border: inset 2px;
-    border-radius: 2%;
+    margin-right: 10px;
 }
 
 #jumping1 {
     width: 33%;
-    height: 33%;
-    margin: auto 0;
+    float: right;
+    padding-top: 10px;
 }
 
 #jumping2 {
     width: 33%;
-    height: 33%;
-    float: right;
-    margin-top: 0%;
+    padding-top: 10px;
+    margin: auto 0;
 }
 
 /* dressage */
 
 #dressage-div {
-    margin: 0% 5%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #dressage-heading {
@@ -139,28 +142,28 @@ body {
 
 #dressage-text {
     width: 33%;
+    float: left;
     padding-top: 10px;
-    padding-left: 10px;
-    border: inset 2px;
-    border-radius: 2%;
-
+    margin-right: 10px;
 }
 
 #dressage1 {
     width: 33%;
-    height: 33%;
+    float: right;
+    padding-top: 10px;
 }
 
 #dressage2 {
-
     width: 33%;
-    height: 33%;
+    padding-top: 10px;
+    margin: auto 0;
 }
 
 /* groundwork */
 
 #groundwork-div {
-    margin: 0% 5%;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #groundwork-heading {
@@ -178,18 +181,19 @@ body {
 
 #groundwork-text {
     width: 33%;
+    float: left;
     padding-top: 10px;
-    border: inset 2px;
-    border-radius: 2%;
+    margin-right: 10px;
 }
 
 #groundwork1 {
     width: 33%;
-    height: 33%;
+    float: right;
+    padding-top: 10px;
 }
 
 #groundwork2 {
-
     width: 33%;
-    height: 33%;
+    padding-top: 10px;
+    margin: auto 0;
 }
