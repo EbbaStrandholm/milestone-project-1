@@ -7,7 +7,7 @@ body {
     color: #3c3f46;
 }
 
-/* Hero image */
+/* Hero image and hero text */
 
 #hero-image {
     background-image: url('../images/horse-hero-image.jpg');
@@ -17,6 +17,14 @@ body {
     background-position: center;
     background-size: cover;
     position: relative;
+}
+
+#hero-text {
+    text-align: center;
+    position: relative;
+    font-size: 200%;
+    color: aliceblue;
+    top: 60%;
 }
 
 /* main sections: showjumping, dressage, groundwork */
