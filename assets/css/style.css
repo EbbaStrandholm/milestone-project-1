@@ -78,3 +78,86 @@ nav ul {
     margin-bottom: 20px;
 }
 
+/* showjumping */
+
+#showjumping-heading {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 200%;
+}
+
+#showjumping-text {
+    width: 33%;
+    padding-top: 10px;
+    float: left;
+}
+
+#jumping1 {
+
+}
+
+#jumping2 {
+    float: right;
+    width: 33%;
+    height: 33%;
+}
+
+/* dressage */
+
+#dressage-heading {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 200%;
+}
+
+#dressage-text {
+    width: 33%;
+    padding-top: 10px;
+    padding-left: 10px;
+    float: right;
+}
+
+#dressage1 {
+    width: 33%;
+    height: 33%;
+}
+
+#dressage2 {
+    float: right;
+    width: 33%;
+    height: 33%;
+}
+
+/* groundwork */
+
+#groundwork-heading {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 200%;
+}
+
+#groundwork-text {
+    width: 33%;
+    padding-top: 10px;
+    float: left;
+}
+
+section ul {
+    float: left;
+    width: 33%;
+    height: 33%;
+}
+
+#groundwork1 {
+    width: 33%;
+    height: 33%;
+}
+
+#groundwork2 {
+    float: right;
+    width: 33%;
+    height: 33%;
+}
