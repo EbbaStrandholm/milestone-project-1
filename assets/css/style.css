@@ -5,6 +5,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     color: #3c3f46;
+    background-color: #dfe2eb;
 }
 
 /* Hero image and hero text */
@@ -19,12 +20,21 @@ body {
     position: relative;
 }
 
-#hero-text {
+.hero-text {
     text-align: center;
     position: relative;
     font-size: 200%;
-    color: aliceblue;
+    color: #bac2d4;
     top: 60%;
+}
+
+#hero-paragraph {
+    font-size: 70%;
+    color: rgb(34, 22, 79);
+    padding: 0.5%;
+    border: inset 2px;
+    border-radius: 2%;
+    background-color: #bac2d4;
 }
 
 /* main sections: showjumping, dressage, groundwork */
