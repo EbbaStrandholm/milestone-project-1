@@ -221,10 +221,7 @@ body {
     color: rgb(202, 220, 226);
 }
 
-/* signup form 
-(the .signup-form class' css was created by code institute at the form challenge 
-https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/ )
-*/
+/* signup form */
 
 .background-signup {
     height: 400px;
@@ -232,7 +229,7 @@ https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/co
     background-image: url('../images/horse-riding-wallpaper-full-hd-1920x1080-301713.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    position: absolute;
+    position: relative;
     overflow: hidden;
 }
 
@@ -254,20 +251,26 @@ https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/co
 
 #signup-heading {
     font-size: 150%;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     text-transform: uppercase;
+}
+
+.signup-label {
+    width: 100px;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    background: rgb(47, 67, 72);
+    color: rgb(202, 220, 226);
+    border: solid 2px rgb(202, 220, 226);
+    border-radius: 4px;
+    display: block;
 }
 
 .signup-text {
     width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    background: rgb(47, 67, 72);
-    color:rgb(202, 220, 226);
-    border: solid 2px rgb(202, 220, 226);
-    border-radius: 4px;
 }
-.signup-text:hover {
+
+.signup-label:hover {
     border-color: rgb(0, 204, 255);
 }
 
