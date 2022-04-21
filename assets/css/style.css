@@ -258,7 +258,8 @@ body {
 .signup-label {
     width: 100px;
     height: 25px;
-    margin: 5px 0 20px 0;
+    margin: 20px 0 5px 0;
+    text-align: center;
     background: rgb(47, 67, 72);
     color: rgb(202, 220, 226);
     border: solid 2px rgb(202, 220, 226);
