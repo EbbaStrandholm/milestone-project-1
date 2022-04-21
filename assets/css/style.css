@@ -220,3 +220,14 @@ body {
     letter-spacing: 80px;
     color: rgb(202, 220, 226);
 }
+
+/* signup form */
+
+.signup-form {
+    height: 800px;
+    width: 80%;
+    text-align: center;
+    margin-top: 300px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
