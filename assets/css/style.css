@@ -226,6 +226,16 @@ body {
 https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/4d85cd1a2c57485abbd8ccec8c00732c/ )
 */
 
+.background-signup {
+    height: 400px;
+    width: 100%;
+    background-image: url('../images/horse-riding-wallpaper-full-hd-1920x1080-301713.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    overflow: hidden;
+}
+
 .section-signup {
     margin: 200px 5% 0 0;
     max-width: 400px;
@@ -233,7 +243,7 @@ https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/co
     left: 5%;
     padding: 50px;
     color:rgb(202, 220, 226);
-    background-color: rgba(72, 95, 102, 0.5);
+    background-color: rgba(72, 95, 102, 0.6);
 }
 
 #signup {
@@ -256,4 +266,23 @@ https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/co
     color:rgb(202, 220, 226);
     border: solid 2px rgb(202, 220, 226);
     border-radius: 4px;
+}
+.signup-text:hover {
+    border-color: rgb(0, 204, 255);
+}
+
+#welcome-button {
+    margin-top: 20px;
+    border-radius: 4px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+    border: solid 3px rgb(202, 220, 226);
+    font-size: 100%;
+    display: block;
+    background-color: rgb(47, 67, 72);
+    color: rgb(202, 220, 226);
+}
+
+#welcome-button:hover {
+    border-color: rgb(0, 204, 255);
 }
