@@ -319,3 +319,28 @@ body {
         width: 50%;
     }
 }
+
+/* medium screen sizes: 1110 wide and down - header element */
+
+@media screen and (max-width: 1110px) {
+    #menu {
+        height: 100px;
+    }
+}
+
+/* medium screen sizes: 404 wide and down - header element */
+
+@media screen and (max-width: 404px) {
+        #menu {
+            height: 150px;
+        }
+}
+
+
+/* large screen sizes: 1525 wide and up */
+
+@media screen and (min-width: 1525px) {
+    #showjumping-div, #dressage-div, #groundwork-div {
+        height: 650px;
+    }
+}
