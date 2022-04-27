@@ -236,8 +236,8 @@ body {
     background-image: url('../images/horse-riding-wallpaper-full-hd-1920x1080-301713.jpg');
     background-color: rgb(202, 220, 226);
     background-repeat: no-repeat;
-    background-size: cover;
-    position: absolute;
+    background-size: auto;
+    position: relative;
     overflow: hidden;
 }
 
@@ -259,7 +259,7 @@ body {
 
 #signup-heading {
     font-size: 150%;
-    padding-bottom: 30px;
+    margin-bottom: 30px;
     text-transform: uppercase;
 }
 
@@ -335,7 +335,6 @@ body {
             height: 150px;
         }
 }
-
 
 /* large screen sizes: 1525 wide and up */
 
