@@ -301,7 +301,7 @@ body {
 
 /* media queries */
 
-/* medium screen sizes: 1224px wide and down*/
+/* medium screen sizes: 1224px wide and down - showjumping, dressage and groundwork divs */
 
 @media screen and (max-width:1224px) {
     #showjumping-div, #dressage-div, #groundwork-div {
@@ -328,15 +328,18 @@ body {
     }
 }
 
-/* medium screen sizes: 404 wide and down - header element */
+/* small screen sizes: 404 wide and down - header element and footer element */
 
 @media screen and (max-width: 404px) {
-        #menu {
-            height: 150px;
-        }
+    #menu {
+        height: 150px;
+    }
+    .social-media i {
+        letter-spacing: 40px;
+    }
 }
 
-/* large screen sizes: 1525 wide and up */
+/* large screen sizes: 1525 wide and up - showjumping, dressage and groundwork divs */
 
 @media screen and (min-width: 1525px) {
     #showjumping-div, #dressage-div, #groundwork-div {
