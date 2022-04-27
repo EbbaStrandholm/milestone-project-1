@@ -227,6 +227,7 @@ body {
     height: 400px;
     width: 100%;
     background-image: url('../images/horse-riding-wallpaper-full-hd-1920x1080-301713.jpg');
+    background-color: rgb(202, 220, 226);
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
