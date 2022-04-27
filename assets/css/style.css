@@ -86,6 +86,7 @@ body {
 #showjumping-div {
     margin-left: 10px;
     margin-right: 10px;
+    height: 400px;
 }
 
 #showjumping-heading {
@@ -125,6 +126,7 @@ body {
 #dressage-div {
     margin-left: 10px;
     margin-right: 10px;
+    height: 400px;
 }
 
 #dressage-heading {
@@ -164,6 +166,7 @@ body {
 #groundwork-div {
     margin-left: 10px;
     margin-right: 10px;
+    height: 400px;
 }
 
 #groundwork-heading {
@@ -184,6 +187,7 @@ body {
     float: left;
     padding-top: 10px;
     margin-right: 10px;
+    text-decoration: none;
 }
 
 #groundwork1 {
@@ -198,7 +202,7 @@ body {
     margin: auto 0;
 }
 
-/* Footer element */
+/* footer element */
 
 #footer {
     height: 150px;
@@ -290,4 +294,23 @@ body {
 
 #welcome-button:hover {
     border-color: rgb(0, 204, 255);
+}
+
+/* media queries */
+
+/* medium screen sizes: 1224px wide and down*/
+
+@media screen and (max-width:1224px) {
+    #showjumping-div, #dressage-div, #groundwork-div {
+        width: 80%;
+        height: 600px;
+        margin: 0 auto;
+    }
+    #showjumping-text, #dressage-text, #groundwork-text {
+        width: 30%;
+    }
+    #jumping1, #jumping2, #dressage1, #dressag2, #groundwork1, #groundwork2 {
+        float: left;
+        width: 40%;
+    }
 }
