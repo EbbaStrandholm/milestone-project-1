@@ -94,16 +94,33 @@
     </ul>
 
 <h2> Testing </h2>
+    <p>
+        Testing was done on AnkarlooHorse using the https://validator.w3.org/ website and https://jigsaw.w3.org/css-validator/ website. Throughout the whole project, no known errors or bugs has shown when run through the code validators. I also shared the github pages link with friends and family to have them check the website's responsiveness and overall design and structure.
+        <p>
+        So far, the overall result has been great with only a few tweaks, such as the footer and menu links placement when viewed on a smaller device, which where pointed out by said family and friends. This was also only possible due the the great feeback and guidance done by my mentor, Dario Carrasquel, who pointed out early in development what needed to be done in order to get a passing grade, as well as keep me on course when I strayed a little too far.
+        </p>
+    </p>
 
-    https://validator.w3.org/nu/?doc=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F
+
+
+<p> <a href="https://jigsaw.w3.org/css-validator/">Jigsaw</a> - <a href="      https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv">Result</a>
+</p>
+
+<p> <a href="https://validator.w3.org/">W3 validator</a>  - <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F">Result</a>
+</p>
+
 
 <h2> Deployment </h2>
-
-    Used the finished template from https://github.com/Code-Institute-Org/gitpod-full-template
-
-     sources:
-     https://www.w3schools.com/howto/howto_css_hero_image.asp
-     https://fontawesome.com/
-     form background: https://wallpapermemory.com/301713
+    <ul>
+        <li><h3>Github Pages</h3></li>
+            <ol>
+                <li>Log in to <a href="https://github.com/EbbaStrandholm">GitHub</a> and locate the <a href="https://github.com/EbbaStrandholm/milestone-project-1">Repository.</a></li>
+                <li>At the top of the Repository (not top of page), locate the "Settings" Button on the menu. </li>
+                <li>Scroll down the Settings page until you locate the "GitHub Pages" Section.</li>
+                <li>Under "Source", click the dropdown called "None" and select "Master Branch".</li>
+                <li>The page will automatically refresh.</li>
+                <li>Scroll back down through the page to locate the now published site <a href="https://ebbastrandholm.github.io/milestone-project-1/">link</a> in "GitHub Pages".</li>
+            </ol>
+    </ul>
 
      
