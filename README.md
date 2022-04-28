@@ -38,13 +38,20 @@
             </ul>
         <li> Images </li>
             <ul>
-                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peaceful and non-stressing environment in order to make the user feel comfortable using the website. The other images used below the hero image are used as complementary images to the relevent text besides them, and example so to say of what some of the equestrian practices are</li>
+                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peaceful and non-stressing environment in order to make the user feel comfortable using the website. The other images used below the hero image are used as complementary images to the relevent text besides them, and example so to say of what some of the equestrian practices are.</li>
             </ul>
     </ul>
 
 <h2> Features </h2>
     <ul>
-        <li> Responsive deisgn for all devices </li>
+        <li> Responsive deisgn for all device which are shown in the images below. However, as the readme.md would become to lenghty for anyone to read with images showing all the pages scrolled all the way through, I added only exemplary images to the readme.md showing that they are responsive. All of the necessary images however have beem added to the screenshot folder in assets for anyone interested in inspekting </li>
+
+![Index phone](/assets/screenshots/cimp1-index-phone1.png "phone sized view of index")
+![video phone](/assets/screenshots/cimp1-video-phone.png "phone sized view of video")
+![signup phone](/assets/screenshots/cimp1-signup-phone.png "phone sized view of signup")
+![index tablet](/assets/screenshots/cimp1-index-tablet.png "tablet sized view of index")
+![video tablet](/assets/screenshots/cimp1-video-tablet.png "tablet sized view of video")
+![signup tablet](/assets/screenshots/cimp1-signup-tablet.png "tablet sized view of signup")
         <li> External links to social media, a playable video and a subscription form to fill in </li>
     </ul>
 
