@@ -337,6 +337,20 @@ body {
     .social-media i {
         letter-spacing: 40px;
     }
+    .social-media {
+        margin-left: 10px;
+    }
+}
+
+/* small screen sizes: 525 wide and down - footer element */
+
+@media screen and (max-width: 525px) {
+    .social-media i {
+        letter-spacing: 40px;
+    }
+    .social-media {
+        margin-left: 10px;
+    }
 }
 
 /* large screen sizes: 1525 wide and up - showjumping, dressage and groundwork divs */
