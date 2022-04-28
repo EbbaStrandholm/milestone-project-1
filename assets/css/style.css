@@ -310,9 +310,10 @@ body {
         margin: 0 auto;
     }
     #showjumping-text, #dressage-text, #groundwork-text {
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
         text-align: left;
+        text-align: justify;
     }
     #jumping1, #jumping2, #dressage1, #dressage2, #groundwork1, #groundwork2 {
         float: left;
