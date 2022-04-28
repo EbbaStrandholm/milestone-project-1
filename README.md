@@ -27,15 +27,18 @@
         <li> Color </li>
             <ul>
                 <li> The website consists of two variations of blue, a lighter tone for the background and a darker tone for the
-                banners. Inside the banners the text and icons (footer) will be the same color as the background to provide a nice feel, and to give of a feel of an optical illusion. This is consistent throughout the 3 separate pages of the website. Since the colour are all blue, but of different tones/shades it also makes the website easy to read for colorblind users</li>
+                banners. Inside the banners the text and icons (footer) will be the same color as the background to provide a nice feel, and to give of a feel of an optical illusion. This is consistent throughout the 3 separate pages of the website. Since the colour are all blue, but of different tones/shades it also makes the website easy to read for colorblind users. This is shown in the images below</li>
             </ul>
+
+![Design of website](/assets/screenshots/cimp1-index1.png "index design photo")
+![Design of website: footer](/assets/screenshots/cimp1-index3.png "Footer and banner design")
         <li> Fonts </li>
             <ul>
                 <li> The Roboto font (from https://fonts.google.com/) is used throughout the whole website, with Sans-Sariff as a fallback font. Roboto is a clean and easily redable font, in both italic and bold and provides a pleasant read for the user when visiting the website</li>
             </ul>
         <li> Images </li>
             <ul>
-                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peaceful and non-stressing environment in order to make the user feel comfortable using the website.</li>
+                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peaceful and non-stressing environment in order to make the user feel comfortable using the website. The other images used below the hero image are used as complementary images to the relevent text besides them, and example so to say of what some of the equestrian practices are</li>
             </ul>
     </ul>
 
@@ -106,6 +109,12 @@
 
 <p> <a href="https://validator.w3.org/">W3 validator</a>  - <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F">Result</a>
 </p>
+
+<h2> Lighthouse reports </h2>
+
+![Index lighthouse report](/assets/screenshots/cimp1-index-lighthouse.png "Index Lighthouse")
+![Video lighthouse report](/assets/screenshots/cimp1-video-lighthouse.png "Video lighthouse")
+![Signup lighthouse report](/assets/screenshots/cimp1-signup-lighthouse.png "Signup lighthouse")
 
 <h2> Deployment </h2>
     <ul>
