@@ -101,14 +101,11 @@
         </p>
     </p>
 
-
-
 <p> <a href="https://jigsaw.w3.org/css-validator/">Jigsaw</a> - <a href="      https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv">Result</a>
 </p>
 
 <p> <a href="https://validator.w3.org/">W3 validator</a>  - <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F">Result</a>
 </p>
-
 
 <h2> Deployment </h2>
     <ul>
@@ -123,4 +120,20 @@
             </ol>
     </ul>
 
-     
+<h2> Credits </h2>
+    <ul>
+        <h3> Code </h3>
+        <li> Some code like the footer, header and form element was referenced from the previous walkthrough project Love Running created by <a href="https://learn.codeinstitute.net/dashboard">Code Institute</a> </li>
+    </ul>
+    <ul>
+        <h3> Content </h3>
+        <li> All content was written by the developer </li>
+    </ul>
+    <ul>
+        <h3> Media </h3>
+        <li> Images were downloaded from <a href="https://pixabay.com/">Pixabay</a> and the background image for signup.html was downloaded from <a href="https://wallpapermemory.com/301713">Wallpapermemory</a> </li>
+    </ul>
+    <ul>
+        <h3> Acknowledgement </h3>
+        <li> My mentor, Dario Carrasquel, for awesome and helpful feedback throughout this project </li>
+    </ul>
