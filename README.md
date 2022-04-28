@@ -1,4 +1,5 @@
 <h1>  AnkarlooHorse </h1> 
+<hr>
     <p>
         This website shall serve as an introduction for the equestrian community, it will cover the three most common practices 
         within the community, provide an exemplary video and a sign up form for those interested in the monthly newspaper. The website is designed to the be accessable on a range of devices, such as smartphones, tablets and computers providing a pleasant time for visitors/users.
@@ -21,8 +22,25 @@
                 </ul>
         </ul>
 
+<h2> Design </h2>
+    <ul>
+        <li> Color </li>
+            <ul>
+                <li> The website consists of two variations of blue, a lighter tone for the background and a darker tone for the
+                banners. Inside the banners the text and icons (footer) will be the same color as the background to provide a nice feel, and to give of a feel of an optical illusion. This is consistent throughout the 3 separate pages of the website. Since the colour are all blue, but of different tones/shades it also makes the website easy to read for colorblind users</li>
+            </ul>
+        <li> Fonts </li>
+            <ul>
+                <li> The Roboto font (from https://fonts.google.com/) is used throughout the whole website, with Sans-Sariff as a fallback font. Roboto is a clean and easily redable font, in both italic and bold and provides a pleasant read for the user when visiting the website</li>
+            </ul>
+        <li> Images </li>
+            <ul>
+                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peacful and non-stressing environment in order to make the user feel comfortable using the website.</li>
+            </ul>
+    </ul>
+
+
     Used the finished template from https://github.com/Code-Institute-Org/gitpod-full-template
-     1. Add basic structure to the index.HTML file
 
      sources:
      https://www.w3schools.com/howto/howto_css_hero_image.asp
