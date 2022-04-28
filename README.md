@@ -42,8 +42,58 @@
 <h2> Wireframes </h2>
 
 <h2> Features </h2>
+    <ul>
+        <li> Responsive deisgn for all devices </li>
+        <li> External links to social media, a playable video and a subscription form to fill in </li>
+    </ul>
 
 <h2> Technologies used </h2>
+    <ul>
+        <li> Languages used </li>
+            <ul>
+                <li> CSS3 </li>
+                <li> HTML5 </li>
+            </ul>
+        <li> Frameworks, library and programs used </li>
+            <ol>
+                <li> https://fontawesome.com/ </li>
+                    <ul>
+                        <li> Font awesome was used for the icons visible in the footer </li>
+                    </ul>
+                <li> form background: https://wallpapermemory.com/301713 </li>
+                    <ul>
+                        <li> The background downloaded and used from wallpapermemory for the backgrpund on the signup form </li>
+                    </ul>
+                <li> https://fonts.google.com/ </li>
+                    <ul>
+                        <li> Roboto and Sans Seriff was used from google fonts in the whole webbpage </li>
+                    </ul>
+                <li> https://git-scm.com/ </li>
+                    <ul>
+                        <li> Git was used to programme in gitpod, commit to git and then push that code to the github cloudbase </li>
+                    </ul>
+                <li> https://github.com/ </li>
+                    <ul>
+                        <li> Github was used to store the code for the projects after being pushed from git </li>
+                    </ul>
+                <li> https://www.gimp.org/</li>
+                    <ul>
+                        <li> Gimp 2.10.22 was downloaded and used to crop the photos downloaded from pixabay </li>
+                    </ul>
+                <li> https://pixabay.com/ </li>
+                    <ul>
+                        <li> Pixabay was used to download the images seen in the website, all except for the signup.html background </li>
+                    </ul>
+                <li> https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/f2db5fd401004fccb43b01a6066a5333/ </li>
+                    <ul>
+                        <li> I referenced to the code used for the Love Running walkthrough project made by Code Institute for some areas of my website, such as the general style of the header and footer element. As well as the structure of the form in signup.html </li>
+                    </ul>
+                <li> https://github.com/Code-Institute-Org/gitpod-full-template </li>
+                    <ul>
+                        <li> Code Institutes ready made template for gitpod was used to create the code for the whole website </li>
+                    </ul>
+            </ol>
+    </ul>
 
 <h2> Testing </h2>
 
