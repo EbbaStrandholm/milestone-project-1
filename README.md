@@ -39,8 +39,6 @@
             </ul>
     </ul>
 
-<h2> Wireframes </h2>
-
 <h2> Features </h2>
     <ul>
         <li> Responsive deisgn for all devices </li>
@@ -96,6 +94,8 @@
     </ul>
 
 <h2> Testing </h2>
+
+    https://validator.w3.org/nu/?doc=https%3A%2F%2Febbastrandholm.github.io%2Fmilestone-project-1%2F
 
 <h2> Deployment </h2>
 
