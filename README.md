@@ -35,10 +35,19 @@
             </ul>
         <li> Images </li>
             <ul>
-                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peacful and non-stressing environment in order to make the user feel comfortable using the website.</li>
+                <li> The hero image on the home page is depicts two horses grazing with a mountain in the background. This, as well as the colors and fonts used will create a peaceful and non-stressing environment in order to make the user feel comfortable using the website.</li>
             </ul>
     </ul>
 
+<h2> Wireframes </h2>
+
+<h2> Features </h2>
+
+<h2> Technologies used </h2>
+
+<h2> Testing </h2>
+
+<h2> Deployment </h2>
 
     Used the finished template from https://github.com/Code-Institute-Org/gitpod-full-template
 
